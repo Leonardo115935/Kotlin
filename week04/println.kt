@@ -6,5 +6,5 @@ package helloWorldITSE1329
 fun main() {
     println("Hello World!")
     println("My name is Leonardo Hernandez")
-    println("I'm learn in ITSE-1329")
+    println("I'm learning kotlin in ITSE-1329")
 }
