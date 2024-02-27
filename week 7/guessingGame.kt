@@ -2,8 +2,10 @@
 //Angel Caro
 //Jordan Pham
 
+import kotlin.random.Random
+
 fun main() {
-    val randomNumber = (50)
+    val randomNumber = Random.nextInt(1, 101)
     var guess: Int
     var attempts = 0
 
